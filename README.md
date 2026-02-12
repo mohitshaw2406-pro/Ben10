@@ -21,7 +21,8 @@ A simple and interactive Ben 10–themed web page created using HTML, CSS, and J
 ---
 
 ## Video 
-![Live video](ben 10 website.mp4)
+[![Watch Demo](bg.jpg)](https://raw.githubusercontent.com/mohitshaw2406-pro/Ben10/main/ben%2010%20website.mp4)
+
 ---
 ## Author
 **Mohit Shaw**
